@@ -1,6 +1,6 @@
 import React from 'react'
 
-import GlobalStyles from 'globalStyles'
+import GlobalStyles from 'GlobalStyles'
 import Routes from 'Routes'
 
 const App = () => {
